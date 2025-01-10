@@ -1,0 +1,6 @@
+streamlit          # Used for creating web applications easily, especially for data science and machine learning projects.
+google-generativeai # Provides tools and APIs for working with Google's generative AI models.
+python-dotenv      # Loads environment variables from a `.env` file, useful for managing configuration settings.
+langchain          # A library for building language model applications, useful for natural language processing tasks.
+pyPDF2             # A library for working with PDF files, allowing you to read and manipulate PDF documents.
+chromadb           # A database library, useful for managing and querying large datasets efficiently.
